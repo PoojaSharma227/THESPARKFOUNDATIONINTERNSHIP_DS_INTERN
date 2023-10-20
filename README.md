@@ -2,4 +2,4 @@
 # Description 
 
 in this internship I learn skills like How to build unsupervised Machine Learning and 
-how to do EDA for business Analysis 
+how to do EDA for Retail business 
